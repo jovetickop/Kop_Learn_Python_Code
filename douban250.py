@@ -1,4 +1,3 @@
-#爬取豆瓣电影250信息
 from bs4 import BeautifulSoup
 import csv
 import urllib2
