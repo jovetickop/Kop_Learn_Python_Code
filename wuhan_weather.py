@@ -1,4 +1,4 @@
-# 爬取武汉市本周天气
+#爬取武汉市本周天气
 #coding:utf-8
 from bs4 import BeautifulSoup
 import urllib2
