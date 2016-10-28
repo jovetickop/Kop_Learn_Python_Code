@@ -1,5 +1,4 @@
 # 爬取湖北省10个城市本周天气
-#coding:utf-8
 from bs4 import BeautifulSoup
 import urllib2
 import csv
